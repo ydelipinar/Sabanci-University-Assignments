@@ -1,0 +1,1 @@
+man top | grep \\-c -w -A 4
